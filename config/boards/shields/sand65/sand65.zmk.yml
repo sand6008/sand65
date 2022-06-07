@@ -1,0 +1,11 @@
+file_format: "1"
+id: sand65
+name: sand65
+type: shield
+url: https://github.com/sand6008/sand65
+requires: [nice!nano_v2]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display
+  - encoder

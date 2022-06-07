@@ -1,0 +1,6 @@
+if SHIELD_sand65
+
+config ZMK_KEYBOARD_NAME
+    default "sand65"
+
+endif
