@@ -27,8 +27,6 @@
    &bt BT_SEL 1 &trans       &trans       &trans       &trans       &trans       &trans       &trans       &trans       &trans       &trans       &trans       &kp PG_UP
    &trans       &trans       &trans                                   &trans                                            &trans       &trans       &kp END      &kp PG_DOWN  &kp INS 
                                 >;
-                                
-                                sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
                         };
         };
 };
